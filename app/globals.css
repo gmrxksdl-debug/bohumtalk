@@ -1,0 +1,34 @@
+:root {
+  --bg: #f4f6f9; --panel: #ffffff; --fg: #18212f; --muted: #5d6b7e; --line: #dde3eb;
+  --accent: #1f4fd6; --accent-fg: #ffffff; --ok: #12805c; --err: #c0392b;
+  --font: 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --bg: #11161e; --panel: #1a212c; --fg: #e8edf4; --muted: #94a2b6; --line: #2c3645; --accent: #6f93ff; --accent-fg: #0b1020; }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--fg); font: 15px/1.6 var(--font); }
+.wrap { max-width: 960px; margin: 0 auto; padding: 24px max(16px, env(safe-area-inset-left)); }
+header { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; margin-bottom: 16px; }
+h1 { font-size: 22px; margin: 0; }
+header p { margin: 0; color: var(--muted); }
+nav { display: flex; gap: 6px; flex-wrap: wrap; border-bottom: 1px solid var(--line); margin-bottom: 20px; }
+nav button { background: none; border: 0; border-bottom: 2px solid transparent; padding: 10px 14px; font: inherit; color: var(--muted); cursor: pointer; }
+nav button[aria-selected='true'] { color: var(--fg); border-color: var(--accent); font-weight: 600; }
+.panel { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 20px; display: grid; gap: 14px; }
+label { display: grid; gap: 4px; font-weight: 600; font-size: 14px; }
+input, textarea { font: inherit; padding: 10px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); color: var(--fg); width: 100%; }
+textarea { min-height: 120px; resize: vertical; }
+.out { min-height: 360px; font-size: 14px; }
+.row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+.btn { font: inherit; font-weight: 600; padding: 10px 16px; border-radius: 8px; border: 1px solid var(--accent); background: var(--accent); color: var(--accent-fg); cursor: pointer; }
+.btn.ghost { background: none; color: var(--accent); }
+.btn:disabled { opacity: .5; cursor: wait; }
+.btn:focus-visible, nav button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.err { color: var(--err); }
+.hint { color: var(--muted); font-size: 13px; margin: 0; }
+.news { display: grid; gap: 6px; max-height: 320px; overflow: auto; }
+.news button { text-align: left; font: inherit; padding: 10px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); color: var(--fg); cursor: pointer; }
+.news button small { color: var(--muted); display: block; }
+.cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px; }
+.cards canvas { width: 100%; height: auto; border-radius: 8px; border: 1px solid var(--line); }
