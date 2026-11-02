@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-22",
+  "version": "v1",
+  "topic": "납입이 끝나면 보장도 끝날까요?",
+  "source_status": "candidate_body_review_required",
+  "share_status": "historical_candidate_not_approved",
+  "body_only": false,
+  "image_count": 7,
+  "files": [
+    {
+      "file": "bohumtalk-2026-10-22-01-candidate.png",
+      "bytes": 986906,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "eb8c6f6cc15db4dd2d9515c9c55cbedbf8634d1146ab8cd4eca03bf08bd245b1"
+    },
+    {
+      "file": "bohumtalk-2026-10-22-02-candidate.png",
+      "bytes": 1002848,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "9e0dbda177770e2c96f75133b7f79eebd543a642ae97781d3a50c5c4b2e2f831"
+    },
+    {
+      "file": "bohumtalk-2026-10-22-03-candidate.png",
+      "bytes": 995852,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "eaf4d9310c9549fbb8e323e557617af1552a70e9aef02293af48f244453e5779"
+    },
+    {
+      "file": "bohumtalk-2026-10-22-04-candidate.png",
+      "bytes": 1118090,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "4e3792db31ba1e91ba6ba92abab5d6aa1bbf7b3386e623e13deda6e94de4369c"
+    },
+    {
+      "file": "bohumtalk-2026-10-22-05-candidate.png",
+      "bytes": 1041960,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "72200f4d74e6363770ade6ef85d4a8676763608abf10693aee38a44eea3b617c"
+    },
+    {
+      "file": "bohumtalk-2026-10-22-06-candidate.png",
+      "bytes": 981545,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "ca3118d6538c9563d450037d8b8f3243e4a5f1c91c390ef7296a063db6d085cc"
+    },
+    {
+      "file": "bohumtalk-2026-10-22-07-candidate.png",
+      "bytes": 1003236,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "f5d9a87a3a55cc79acfe70a0e7e1779229d31fe0c1328179e8c3930e94d47a0f"
+    }
+  ],
+  "privacy": "Only generated card PNGs and allowlisted redacted texts; no customer files, credentials, sessions, original reference feeds or app database."
+}

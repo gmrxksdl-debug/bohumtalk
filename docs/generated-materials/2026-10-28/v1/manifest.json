@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-28",
+  "version": "v1",
+  "topic": "새 보험 알아볼 때, 기존 보험부터 해지해도 될까요?",
+  "source_status": "candidate_body_review_required",
+  "share_status": "historical_candidate_not_approved",
+  "body_only": false,
+  "image_count": 7,
+  "files": [
+    {
+      "file": "bohumtalk-2026-10-28-01-candidate.png",
+      "bytes": 946405,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "6a59200d0583e29805e818a82c2993765fb0d8184bd13eeb9f4d213b0495c0f3"
+    },
+    {
+      "file": "bohumtalk-2026-10-28-02-candidate.png",
+      "bytes": 1010782,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "99e52dad8ca365d15696cee80f2f8be4162e962b8364f1053c420df7a8abc09e"
+    },
+    {
+      "file": "bohumtalk-2026-10-28-03-candidate.png",
+      "bytes": 944635,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "9b650fa8a0210a6913f4b0243fc2370edd361a33ce580c0c4093b45505ac1e5b"
+    },
+    {
+      "file": "bohumtalk-2026-10-28-04-candidate.png",
+      "bytes": 1033729,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "eebeeffb5ec6665de04b609bebdd4d019cd15732c89a9c8ad271934bce3f5c2f"
+    },
+    {
+      "file": "bohumtalk-2026-10-28-05-candidate.png",
+      "bytes": 1031468,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "a38362ce5bc66a3118b520fe4a3342894ddf598c1d63f1cfb0e1dced6238cf62"
+    },
+    {
+      "file": "bohumtalk-2026-10-28-06-candidate.png",
+      "bytes": 1057833,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "b507cc215727e49395b13f99adfe2981418b2f3f1e82eab18dfb10e0ae36c8e8"
+    },
+    {
+      "file": "bohumtalk-2026-10-28-07-candidate.png",
+      "bytes": 997546,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "a74210270b93944f5e99f4af293f384223909465dcd45e9463ef99137f6c3738"
+    }
+  ],
+  "privacy": "Only generated card PNGs and allowlisted redacted texts; no customer files, credentials, sessions, original reference feeds or app database."
+}

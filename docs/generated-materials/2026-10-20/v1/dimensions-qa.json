@@ -1,0 +1,114 @@
+[
+  {
+    "page": 1,
+    "file": "bohumtalk-2026-10-20-01-candidate.png",
+    "width": 1086,
+    "height": 1448,
+    "format": "PNG",
+    "ratio": "3:4",
+    "logo_box": [
+      72,
+      72,
+      147,
+      127
+    ],
+    "outside_logo_unchanged": true,
+    "sha256": "4f9b180c7fe60a7e51d4073f959499dd933d313faa8cddcd7d5de62c115e248a"
+  },
+  {
+    "page": 2,
+    "file": "bohumtalk-2026-10-20-02-candidate.png",
+    "width": 1086,
+    "height": 1448,
+    "format": "PNG",
+    "ratio": "3:4",
+    "logo_box": [
+      72,
+      72,
+      147,
+      127
+    ],
+    "outside_logo_unchanged": true,
+    "sha256": "50be74066df183e15227f52e7a1b3b3d09920af5438f4a8bb6d89d2e54d21fcc"
+  },
+  {
+    "page": 3,
+    "file": "bohumtalk-2026-10-20-03-candidate.png",
+    "width": 1086,
+    "height": 1448,
+    "format": "PNG",
+    "ratio": "3:4",
+    "logo_box": [
+      72,
+      72,
+      147,
+      127
+    ],
+    "outside_logo_unchanged": true,
+    "sha256": "db00fcc0f7550eb77b2f3fd364932427406be1ad3a15052171eea5d0b16d37e3"
+  },
+  {
+    "page": 4,
+    "file": "bohumtalk-2026-10-20-04-candidate.png",
+    "width": 1086,
+    "height": 1448,
+    "format": "PNG",
+    "ratio": "3:4",
+    "logo_box": [
+      72,
+      72,
+      147,
+      127
+    ],
+    "outside_logo_unchanged": true,
+    "sha256": "4a99ec3b7f6958d5527ec1cb3364cd64976c5896839bb253ba322e7651185837"
+  },
+  {
+    "page": 5,
+    "file": "bohumtalk-2026-10-20-05-candidate.png",
+    "width": 1086,
+    "height": 1448,
+    "format": "PNG",
+    "ratio": "3:4",
+    "logo_box": [
+      72,
+      72,
+      147,
+      127
+    ],
+    "outside_logo_unchanged": true,
+    "sha256": "ae7ae8ca4b49ea76ac43133b85f4abcf68309d78911c38b8bc1aa75e190b0172"
+  },
+  {
+    "page": 6,
+    "file": "bohumtalk-2026-10-20-06-candidate.png",
+    "width": 1086,
+    "height": 1448,
+    "format": "PNG",
+    "ratio": "3:4",
+    "logo_box": [
+      72,
+      72,
+      147,
+      127
+    ],
+    "outside_logo_unchanged": true,
+    "sha256": "84b822a0199360335cf27f880284f93e56996c8e1267c91155187943188fcecd"
+  },
+  {
+    "page": 7,
+    "file": "bohumtalk-2026-10-20-07-candidate.png",
+    "width": 1086,
+    "height": 1448,
+    "format": "PNG",
+    "ratio": "3:4",
+    "logo_box": [
+      72,
+      72,
+      147,
+      127
+    ],
+    "outside_logo_unchanged": true,
+    "sha256": "d5b0e27b0944d3132452a66b63bfb70120520b1ddc3d4c3f4ebe10ad5aee5fea"
+  }
+]

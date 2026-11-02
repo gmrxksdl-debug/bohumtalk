@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-20",
+  "version": "v3",
+  "topic": "보험 가입 전, 병원 이력은 어떻게 알려야 할까?",
+  "source_status": "fixed_elements_verified_body_candidate",
+  "share_status": "historical_candidate_not_approved",
+  "body_only": false,
+  "image_count": 7,
+  "files": [
+    {
+      "file": "bohumtalk-2026-10-20-01-candidate.png",
+      "bytes": 1015375,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "24896392580cc20169eb2b64081b8ffa1ef6ded7ea0c1d6c770aada9930ecd00"
+    },
+    {
+      "file": "bohumtalk-2026-10-20-02-candidate.png",
+      "bytes": 1042459,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "71aaa415a7ae80b07ed5a89b4b0261a752491bbde2e47d77591a9cefaeb17f9f"
+    },
+    {
+      "file": "bohumtalk-2026-10-20-03-candidate.png",
+      "bytes": 965148,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "2a986f130657da164edafba9ddbf5e28913429586f70d56ca8f81c8b75a16a6c"
+    },
+    {
+      "file": "bohumtalk-2026-10-20-04-candidate.png",
+      "bytes": 1154619,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "813b9d326ee27e23b15aef73dcc1f29ab677645731bb54faa7ff024b1b652b3e"
+    },
+    {
+      "file": "bohumtalk-2026-10-20-05-candidate.png",
+      "bytes": 1007819,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "17769f8c3a7e9ac321c04bf1a65d298c532dea28444a1c02fd73832b9c0a7672"
+    },
+    {
+      "file": "bohumtalk-2026-10-20-06-candidate.png",
+      "bytes": 1038424,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "0c282768cda874bde9112b75012e23f92c4d01ab7c0de11522d6ad2e2fea94b4"
+    },
+    {
+      "file": "bohumtalk-2026-10-20-07-candidate.png",
+      "bytes": 1040688,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "8aa3c3e3d2ed09e49914cf0a82c5f011a2dfb853c53f4d33c4e9fea113ed29fd"
+    }
+  ],
+  "privacy": "Only generated card PNGs and allowlisted redacted texts; no customer files, credentials, sessions, original reference feeds or app database."
+}

@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-30",
+  "version": "body-only",
+  "topic": "가족 보험, 나만 알고 있나요?",
+  "source_status": "body_only_not_composited",
+  "share_status": "historical_candidate_not_approved",
+  "body_only": true,
+  "image_count": 7,
+  "files": [
+    {
+      "file": "bohumtalk-2026-10-30-01-body-candidate.png",
+      "bytes": 1146784,
+      "size": [
+        1315,
+        1196
+      ],
+      "sha256": "e4926eb9786a98ee8abd2394bc6d582bee77db45495b14804b878eab10c7f620"
+    },
+    {
+      "file": "bohumtalk-2026-10-30-02-body-candidate.png",
+      "bytes": 1185749,
+      "size": [
+        1315,
+        1196
+      ],
+      "sha256": "4e2dbdcd0d0a9f676cad86d8a8f8ea0b2ba70cb4a07eeab9ce62225a1c18f47e"
+    },
+    {
+      "file": "bohumtalk-2026-10-30-03-body-candidate.png",
+      "bytes": 1222700,
+      "size": [
+        1315,
+        1196
+      ],
+      "sha256": "bb69a38e2fb7c42ab16d6075f8cb93c7944a704b1843923efd8cfe58715915f1"
+    },
+    {
+      "file": "bohumtalk-2026-10-30-04-body-candidate.png",
+      "bytes": 1224871,
+      "size": [
+        1315,
+        1196
+      ],
+      "sha256": "171e8062c73f23101dd23d04472f48cc5054cf3b384252b0692f971f23d74d85"
+    },
+    {
+      "file": "bohumtalk-2026-10-30-05-body-candidate.png",
+      "bytes": 1172891,
+      "size": [
+        1316,
+        1195
+      ],
+      "sha256": "8d5156870ce883b17bf74fac36dc5201b14b8d99f32b8de4e30a17e9a16fc6b7"
+    },
+    {
+      "file": "bohumtalk-2026-10-30-06-body-candidate.png",
+      "bytes": 1175425,
+      "size": [
+        1316,
+        1195
+      ],
+      "sha256": "eb7bdc5a2d3887808a80da54545a43a1eb7d67763cab86f29b88b62ffd134aef"
+    },
+    {
+      "file": "bohumtalk-2026-10-30-07-body-candidate.png",
+      "bytes": 1243080,
+      "size": [
+        1315,
+        1196
+      ],
+      "sha256": "e9e145ffb4d30ce6ec5631f3d9fdd171fcd4772422a37aa55beb846f3ec792e0"
+    }
+  ],
+  "privacy": "Only generated card PNGs and allowlisted redacted texts; no customer files, credentials, sessions, original reference feeds or app database."
+}

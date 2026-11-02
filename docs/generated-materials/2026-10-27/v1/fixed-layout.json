@@ -1,0 +1,46 @@
+{
+  "canvas": [
+    1440,
+    1920
+  ],
+  "logo": [
+    95,
+    96,
+    100,
+    74
+  ],
+  "handle": {
+    "right": 95,
+    "top": 96,
+    "font_px": 30,
+    "bbox": [
+      1149,
+      96,
+      1345,
+      124
+    ]
+  },
+  "category": {
+    "box": [
+      95,
+      280,
+      355,
+      336
+    ],
+    "font_px": 30,
+    "text": "직무 변경 점검"
+  },
+  "page_number": {
+    "right": 95,
+    "bottom": 95,
+    "font_px": 30
+  },
+  "body_frame": [
+    0,
+    400,
+    1440,
+    1710
+  ],
+  "font": "C:\\Windows\\Fonts\\malgun.ttf",
+  "static_overlay_sha256": "f2c2b7123f56a4733ca73228664ad734995ce8437c89f1b0916ff5dcf4f7575a"
+}

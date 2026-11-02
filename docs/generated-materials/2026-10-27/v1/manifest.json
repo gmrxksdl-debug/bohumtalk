@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-27",
+  "version": "v1",
+  "topic": "하는 일이 바뀌면 보험도 확인해야 할까요?",
+  "source_status": "candidate_body_review_required",
+  "share_status": "historical_candidate_not_approved",
+  "body_only": false,
+  "image_count": 7,
+  "files": [
+    {
+      "file": "bohumtalk-2026-10-27-01-candidate.png",
+      "bytes": 951408,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "3a2c7c433cf3f69bc53d1f53200d189ae2a230c75de03fabaeb979dfb0991678"
+    },
+    {
+      "file": "bohumtalk-2026-10-27-02-candidate.png",
+      "bytes": 1018112,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "f5f34c2d33a326162afd92f2b0fab863357d2620d859243d7fbff7247724a494"
+    },
+    {
+      "file": "bohumtalk-2026-10-27-03-candidate.png",
+      "bytes": 953098,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "025692d619d2628a2613a74d941ad71b12d40199aa5bdab4b3c73dc857e716ab"
+    },
+    {
+      "file": "bohumtalk-2026-10-27-04-candidate.png",
+      "bytes": 1025032,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "1b3d55e9ad9a9f67cd8c963a8ee032d07d0bae3836438237ab12e642b81e9ef1"
+    },
+    {
+      "file": "bohumtalk-2026-10-27-05-candidate.png",
+      "bytes": 1033166,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "b5c6c442cefbbdd12694ee09e24f1f96799aaebeb6cf8f5f236d35519c01dfe7"
+    },
+    {
+      "file": "bohumtalk-2026-10-27-06-candidate.png",
+      "bytes": 1026356,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "c888d491c5752f8f8c16ca4b15ecc73d89b9817e7f4f64275b169c373eb04db9"
+    },
+    {
+      "file": "bohumtalk-2026-10-27-07-candidate.png",
+      "bytes": 1027465,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "0bc0a3ccd4f9c2c16ac2daa79f368912ca047d8466e0b8326a3b0234327f8d10"
+    }
+  ],
+  "privacy": "Only generated card PNGs and allowlisted redacted texts; no customer files, credentials, sessions, original reference feeds or app database."
+}

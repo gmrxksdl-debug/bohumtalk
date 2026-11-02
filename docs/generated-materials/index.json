@@ -1,0 +1,215 @@
+{
+  "records": [
+    {
+      "date": "2026-10-19",
+      "version": "v1",
+      "topic": "초기 레이아웃 후보",
+      "images": 7,
+      "body_only": false,
+      "archive": "2026-10-19/2026-10-19-v1.zip",
+      "preview": "2026-10-19/v1/contact-sheet.png",
+      "status": "historical_candidate"
+    },
+    {
+      "date": "2026-10-19",
+      "version": "v2",
+      "topic": "실손보험 두 개면, 보험금도 두 배일까?",
+      "images": 7,
+      "body_only": false,
+      "archive": "2026-10-19/2026-10-19-v2.zip",
+      "preview": "2026-10-19/v2/contact-sheet.png",
+      "status": "candidate_needs_layout_revision"
+    },
+    {
+      "date": "2026-10-19",
+      "version": "v3",
+      "topic": "실손보험 두 개면, 보험금도 두 배일까?",
+      "images": 7,
+      "body_only": false,
+      "archive": "2026-10-19/2026-10-19-v3.zip",
+      "preview": "2026-10-19/v3/contact-sheet.png",
+      "status": "candidate_needs_layout_revision"
+    },
+    {
+      "date": "2026-10-19",
+      "version": "v4",
+      "topic": "실손보험 두 개면, 보험금도 두 배일까?",
+      "images": 7,
+      "body_only": false,
+      "archive": "2026-10-19/2026-10-19-v4.zip",
+      "preview": "2026-10-19/v4/contact-sheet.png",
+      "status": "candidate_needs_layout_revision"
+    },
+    {
+      "date": "2026-10-20",
+      "version": "v1",
+      "topic": "보험 가입 전, 병원 이력은 어떻게 알려야 할까?",
+      "images": 7,
+      "body_only": false,
+      "archive": "2026-10-20/2026-10-20-v1.zip",
+      "preview": "2026-10-20/v1/contact-sheet.png",
+      "status": "candidate_needs_layout_revision"
+    },
+    {
+      "date": "2026-10-20",
+      "version": "v2",
+      "topic": "보험 가입 전, 병원 이력은 어떻게 알려야 할까?",
+      "images": 7,
+      "body_only": false,
+      "archive": "2026-10-20/2026-10-20-v2.zip",
+      "preview": "2026-10-20/v2/contact-sheet.png",
+      "status": "fixed_elements_verified_body_candidate"
+    },
+    {
+      "date": "2026-10-20",
+      "version": "v3",
+      "topic": "보험 가입 전, 병원 이력은 어떻게 알려야 할까?",
+      "images": 7,
+      "body_only": false,
+      "archive": "2026-10-20/2026-10-20-v3.zip",
+      "preview": "2026-10-20/v3/contact-sheet.png",
+      "status": "fixed_elements_verified_body_candidate"
+    },
+    {
+      "date": "2026-10-20",
+      "version": "v4",
+      "topic": "설계 의뢰 전 병력 정리와 알릴의무 점검",
+      "images": 7,
+      "body_only": false,
+      "archive": "2026-10-20/2026-10-20-v4.zip",
+      "preview": "2026-10-20/v4/contact-sheet.png",
+      "status": "fixed_elements_verified_body_candidate"
+    },
+    {
+      "date": "2026-10-21",
+      "version": "v1",
+      "topic": "보험금 청구, 진단서부터 떼야 할까요?",
+      "images": 7,
+      "body_only": false,
+      "archive": "2026-10-21/2026-10-21-v1.zip",
+      "preview": "2026-10-21/v1/contact-sheet.png",
+      "status": "superseded_candidate_do_not_publish"
+    },
+    {
+      "date": "2026-10-21",
+      "version": "v2",
+      "topic": "보험금 청구, 진단서부터 떼야 할까요?",
+      "images": 7,
+      "body_only": false,
+      "archive": "2026-10-21/2026-10-21-v2.zip",
+      "preview": "2026-10-21/v2/contact-sheet.png",
+      "status": "candidate_body_design_review_required"
+    },
+    {
+      "date": "2026-10-22",
+      "version": "v1",
+      "topic": "납입이 끝나면 보장도 끝날까요?",
+      "images": 7,
+      "body_only": false,
+      "archive": "2026-10-22/2026-10-22-v1.zip",
+      "preview": "2026-10-22/v1/contact-sheet.png",
+      "status": "candidate_body_review_required"
+    },
+    {
+      "date": "2026-10-23",
+      "version": "v1",
+      "topic": "실손보험, 여러 개면 보장도 늘까요?",
+      "images": 7,
+      "body_only": false,
+      "archive": "2026-10-23/2026-10-23-v1.zip",
+      "preview": "2026-10-23/v1/contact-sheet.png",
+      "status": "fixed_elements_verified_body_candidate"
+    },
+    {
+      "date": "2026-10-23",
+      "version": "v2",
+      "topic": "실손보험, 여러 개면 보장도 늘까요?",
+      "images": 7,
+      "body_only": false,
+      "archive": "2026-10-23/2026-10-23-v2.zip",
+      "preview": "2026-10-23/v2/contact-sheet.png",
+      "status": "candidate_body_review_required"
+    },
+    {
+      "date": "2026-10-24",
+      "version": "v1",
+      "topic": "이사한 뒤, 보험 주소도 확인했나요?",
+      "images": 7,
+      "body_only": false,
+      "archive": "2026-10-24/2026-10-24-v1.zip",
+      "preview": "2026-10-24/v1/contact-sheet.png",
+      "status": "candidate_body_review_required"
+    },
+    {
+      "date": "2026-10-25",
+      "version": "v1",
+      "topic": "내 보험금, 누가 받는지 확인했나요?",
+      "images": 7,
+      "body_only": false,
+      "archive": "2026-10-25/2026-10-25-v1.zip",
+      "preview": "2026-10-25/v1/contact-sheet.png",
+      "status": "candidate_body_review_required"
+    },
+    {
+      "date": "2026-10-26",
+      "version": "v1",
+      "topic": "추가서류 요청, 보험금이 거절된 걸까요?",
+      "images": 7,
+      "body_only": false,
+      "archive": "2026-10-26/2026-10-26-v1.zip",
+      "preview": "2026-10-26/v1/contact-sheet.png",
+      "status": "candidate_body_review_required"
+    },
+    {
+      "date": "2026-10-27",
+      "version": "v1",
+      "topic": "하는 일이 바뀌면 보험도 확인해야 할까요?",
+      "images": 7,
+      "body_only": false,
+      "archive": "2026-10-27/2026-10-27-v1.zip",
+      "preview": "2026-10-27/v1/contact-sheet.png",
+      "status": "candidate_body_review_required"
+    },
+    {
+      "date": "2026-10-28",
+      "version": "v1",
+      "topic": "새 보험 알아볼 때, 기존 보험부터 해지해도 될까요?",
+      "images": 7,
+      "body_only": false,
+      "archive": "2026-10-28/2026-10-28-v1.zip",
+      "preview": "2026-10-28/v1/contact-sheet.png",
+      "status": "candidate_body_review_required"
+    },
+    {
+      "date": "2026-10-29",
+      "version": "v1",
+      "topic": "자동이체 해뒀으니 보험료는 괜찮을까요?",
+      "images": 7,
+      "body_only": false,
+      "archive": "2026-10-29/2026-10-29-v1.zip",
+      "preview": "2026-10-29/v1/contact-sheet.png",
+      "status": "candidate_body_review_required"
+    },
+    {
+      "date": "2026-10-30",
+      "version": "body-only",
+      "topic": "가족 보험, 나만 알고 있나요?",
+      "images": 7,
+      "body_only": true,
+      "archive": "2026-10-30/2026-10-30-body-only.zip",
+      "preview": "2026-10-30/body-only/contact-sheet.png",
+      "status": "body_only_not_composited"
+    },
+    {
+      "date": "2026-11-02",
+      "version": "body-only",
+      "topic": "갱신 안내, 보험료만 보고 넘겼나요?",
+      "images": 7,
+      "body_only": true,
+      "archive": "2026-11-02/2026-11-02-body-only.zip",
+      "preview": "2026-11-02/body-only/contact-sheet.png",
+      "status": "draft"
+    }
+  ],
+  "issues": []
+}

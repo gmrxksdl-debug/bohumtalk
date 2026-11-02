@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-19",
+  "version": "v3",
+  "topic": "실손보험 두 개면, 보험금도 두 배일까?",
+  "source_status": "candidate_needs_layout_revision",
+  "share_status": "historical_candidate_not_approved",
+  "body_only": false,
+  "image_count": 7,
+  "files": [
+    {
+      "file": "bohumtalk-2026-10-19-01-candidate.png",
+      "bytes": 913890,
+      "size": [
+        1086,
+        1448
+      ],
+      "sha256": "94c064ba8e69f438bba38ab10cdbb018ffa972981815386890607bd46f158a8f"
+    },
+    {
+      "file": "bohumtalk-2026-10-19-02-candidate.png",
+      "bytes": 940867,
+      "size": [
+        1086,
+        1448
+      ],
+      "sha256": "c10aae6753840357c666cc080925af78ffa186585a824e0b2d4d319526f01be5"
+    },
+    {
+      "file": "bohumtalk-2026-10-19-03-candidate.png",
+      "bytes": 984895,
+      "size": [
+        1086,
+        1448
+      ],
+      "sha256": "06851ab4823cbf7d79be16e96bc2f234606eaf9323072b1ef88e426074466233"
+    },
+    {
+      "file": "bohumtalk-2026-10-19-04-candidate.png",
+      "bytes": 1010546,
+      "size": [
+        1086,
+        1448
+      ],
+      "sha256": "78007c751a872473094328d4f991d837dc8e57063d5ba62d315a9f2cb4e451d8"
+    },
+    {
+      "file": "bohumtalk-2026-10-19-05-candidate.png",
+      "bytes": 1005814,
+      "size": [
+        1086,
+        1448
+      ],
+      "sha256": "de0ed5c4ad042acbef2d2558cef4129ddb1c233ae8546235000eae0a9c0fbae0"
+    },
+    {
+      "file": "bohumtalk-2026-10-19-06-candidate.png",
+      "bytes": 1004650,
+      "size": [
+        1086,
+        1448
+      ],
+      "sha256": "f893f2b8498e19e7bfa34b9740cd301dde948cb9f34495cda720d5a885086c64"
+    },
+    {
+      "file": "bohumtalk-2026-10-19-07-candidate.png",
+      "bytes": 951846,
+      "size": [
+        1086,
+        1448
+      ],
+      "sha256": "78563dff7b44f67644eb9c587ed1aadc856357a8fda23527f22299a5f90e1d5e"
+    }
+  ],
+  "privacy": "Only generated card PNGs and allowlisted redacted texts; no customer files, credentials, sessions, original reference feeds or app database."
+}

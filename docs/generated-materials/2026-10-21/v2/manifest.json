@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-21",
+  "version": "v2",
+  "topic": "보험금 청구, 진단서부터 떼야 할까요?",
+  "source_status": "candidate_body_design_review_required",
+  "share_status": "historical_candidate_not_approved",
+  "body_only": false,
+  "image_count": 7,
+  "files": [
+    {
+      "file": "bohumtalk-2026-10-21-01-candidate.png",
+      "bytes": 977973,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "ffa45c9384f1b169d84396de0ea3032215183f3261b3801f39e4383816e32763"
+    },
+    {
+      "file": "bohumtalk-2026-10-21-02-candidate.png",
+      "bytes": 1029209,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "a227832320d8541979a0b5d7a1d098c001d61b8c189ec8a36bf5c175b41451c9"
+    },
+    {
+      "file": "bohumtalk-2026-10-21-03-candidate.png",
+      "bytes": 982602,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "243314891aa64332aa051e4103dbdc754d614e921a7b90e0affbc8fa97aa39ba"
+    },
+    {
+      "file": "bohumtalk-2026-10-21-04-candidate.png",
+      "bytes": 1054464,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "cea037468fcf90ab9e896f429764b1e1bd72c38e8c73fb8349fb93537569aa00"
+    },
+    {
+      "file": "bohumtalk-2026-10-21-05-candidate.png",
+      "bytes": 1123966,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "1810a15d425f3c1d158a294b6b5504f289172af3d7422504b5d1fa04582b6108"
+    },
+    {
+      "file": "bohumtalk-2026-10-21-06-candidate.png",
+      "bytes": 960522,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "f446c23775496815c72523a1697e3f88aaccd841aa8fa61be4b9abd0108715ab"
+    },
+    {
+      "file": "bohumtalk-2026-10-21-07-candidate.png",
+      "bytes": 1083994,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "94e6c5e1ccac3746defa74d1d0645cea98c8682816f0df08f6f7c25ba84fb166"
+    }
+  ],
+  "privacy": "Only generated card PNGs and allowlisted redacted texts; no customer files, credentials, sessions, original reference feeds or app database."
+}

@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-26",
+  "version": "v1",
+  "topic": "추가서류 요청, 보험금이 거절된 걸까요?",
+  "source_status": "candidate_body_review_required",
+  "share_status": "historical_candidate_not_approved",
+  "body_only": false,
+  "image_count": 7,
+  "files": [
+    {
+      "file": "bohumtalk-2026-10-26-01-candidate.png",
+      "bytes": 932454,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "4e4b50e6e50925518630e87851cc831f7cfb8f8442767ce0adc97e0cffc3e8eb"
+    },
+    {
+      "file": "bohumtalk-2026-10-26-02-candidate.png",
+      "bytes": 1023636,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "906b90bf39ce2b64dc1ad550902eaaf752979bb0add637b75759a0782fd48236"
+    },
+    {
+      "file": "bohumtalk-2026-10-26-03-candidate.png",
+      "bytes": 966567,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "5a4ce41c597a8be655df69d53dca65198cf3725ea1bcb0d45e2df7022749f65b"
+    },
+    {
+      "file": "bohumtalk-2026-10-26-04-candidate.png",
+      "bytes": 1029282,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "c6838271c97e8748f2a43a64e438271ea9c07eb8509343a3801f90beb45123a9"
+    },
+    {
+      "file": "bohumtalk-2026-10-26-05-candidate.png",
+      "bytes": 1008724,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "1b7ede952c8570c0c713477550c8f09c625842bb019c176ffd4df2d19f076f2a"
+    },
+    {
+      "file": "bohumtalk-2026-10-26-06-candidate.png",
+      "bytes": 1030711,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "13a523db2c2f60385a73db0cf9fbbdb8607550e36c4e4a71c643364f7bd19938"
+    },
+    {
+      "file": "bohumtalk-2026-10-26-07-candidate.png",
+      "bytes": 985954,
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "20f4a57592bc79448beebffdf3f71f76e527deb0eb03bc09925c0e5d79156e83"
+    }
+  ],
+  "privacy": "Only generated card PNGs and allowlisted redacted texts; no customer files, credentials, sessions, original reference feeds or app database."
+}

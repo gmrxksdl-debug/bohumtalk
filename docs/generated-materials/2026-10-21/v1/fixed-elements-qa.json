@@ -1,0 +1,56 @@
+{
+  "cards": 7,
+  "canvas": [
+    1440,
+    1920
+  ],
+  "header_logo_handle_category_pixel_identical": true,
+  "page_number_ink_boxes": [
+    [
+      1245,
+      1799,
+      1345,
+      1825
+    ],
+    [
+      1245,
+      1799,
+      1345,
+      1825
+    ],
+    [
+      1245,
+      1799,
+      1345,
+      1825
+    ],
+    [
+      1245,
+      1799,
+      1345,
+      1825
+    ],
+    [
+      1245,
+      1799,
+      1345,
+      1825
+    ],
+    [
+      1245,
+      1799,
+      1345,
+      1825
+    ],
+    [
+      1245,
+      1799,
+      1345,
+      1825
+    ]
+  ],
+  "page_number_right_padding": 95,
+  "page_number_bottom_padding": 95,
+  "font_px": 30,
+  "visual_body_review": "Contact sheet inspected; body retains generated styling."
+}

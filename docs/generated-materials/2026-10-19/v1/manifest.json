@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-19",
+  "version": "v1",
+  "topic": "초기 레이아웃 후보",
+  "source_status": "historical_candidate",
+  "share_status": "historical_candidate_not_approved",
+  "body_only": false,
+  "image_count": 7,
+  "files": [
+    {
+      "file": "bohumtalk-2026-10-19-01-candidate.png",
+      "bytes": 1151893,
+      "size": [
+        1086,
+        1448
+      ],
+      "sha256": "33e57af3d16d6368834a30e41d6fb488cf58ebfb941ca50b22b3bd48adff434f"
+    },
+    {
+      "file": "bohumtalk-2026-10-19-02-candidate.png",
+      "bytes": 1145484,
+      "size": [
+        1086,
+        1448
+      ],
+      "sha256": "a1ff9149243096bc6436014372dc80b0e7ab452d9992eece110011ef3a8bfffe"
+    },
+    {
+      "file": "bohumtalk-2026-10-19-03-candidate.png",
+      "bytes": 1217255,
+      "size": [
+        1086,
+        1448
+      ],
+      "sha256": "74eacf3566ff3542cb3d95d4bd28cae68b1662e6d8aef745829ec423a9fd2fe5"
+    },
+    {
+      "file": "bohumtalk-2026-10-19-04-candidate.png",
+      "bytes": 1236768,
+      "size": [
+        1086,
+        1448
+      ],
+      "sha256": "99be2cb8c8b5c3a8e8653c5df86e01252480e3d8ab4467ecdbb6e44159848e82"
+    },
+    {
+      "file": "bohumtalk-2026-10-19-05-candidate.png",
+      "bytes": 1180428,
+      "size": [
+        1086,
+        1448
+      ],
+      "sha256": "9aee0a044993563ebc3e7f189daf0b509259f311729811379d74f6008c89b624"
+    },
+    {
+      "file": "bohumtalk-2026-10-19-06-candidate.png",
+      "bytes": 1274640,
+      "size": [
+        1086,
+        1448
+      ],
+      "sha256": "a5a76dcc18000a915d597e43de1c7dd1b09cd411796322c0a3f939aa6e176195"
+    },
+    {
+      "file": "bohumtalk-2026-10-19-07-candidate.png",
+      "bytes": 1207200,
+      "size": [
+        1086,
+        1448
+      ],
+      "sha256": "c10cf9304d3efdf0506f4c857fb933eab32d0c2870af846bca6ba87b7d2b12c6"
+    }
+  ],
+  "privacy": "Only generated card PNGs and allowlisted redacted texts; no customer files, credentials, sessions, original reference feeds or app database."
+}
